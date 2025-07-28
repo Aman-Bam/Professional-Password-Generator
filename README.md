@@ -13,8 +13,6 @@
 
 **[🚀 Live Demo - Click Here to Use](https://aman-bam.github.io/Professional-Password-Generator/)**
 
-[Features](#features) • [Installation](#installation) • [Customization](#customization) • [Usage](#usage)
-
 </div>
 
 ## 🔐 Overview
