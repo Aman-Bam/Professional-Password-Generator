@@ -11,11 +11,16 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Responsive](https://img.shields.io/badge/Responsive-Design-00C4CC?style=flat-square)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 
+**[🚀 Live Demo - Click Here to Use](https://aman-bam.github.io/Professional-Password-Generator/)**
+
 [Features](#features) • [Installation](#installation) • [Customization](#customization) • [Usage](#usage)
 
 </div>
 
 ## 🔐 Overview
+
+<img width="1918" height="970" alt="Screenshot 2025-07-28 132156" src="https://github.com/user-attachments/assets/d0103178-592f-4fb1-8ca6-74a28c1445c9" />
+
 
 SecurePass Pro is a client-side password generator built with pure HTML, CSS, and JavaScript. It features a modern, responsive design with comprehensive customization options, making it perfect for white-labeling or integration into existing projects.
 
@@ -24,7 +29,7 @@ SecurePass Pro is a client-side password generator built with pure HTML, CSS, an
 ### 🎯 Core Functionality
 - **Password Generation**: 4-50 character passwords with multiple character sets
 - **Real-time Strength Analysis**: 10-point scoring system with detailed feedback
-- **Preset Templates**: Basic (8), Standard (12), Secure (16), Maximum (24) character presets and more
+- **Preset Templates**: Basic (8), Standard (12), Secure (16), Maximum (24) character presets
 - **Character Options**: Uppercase, lowercase, numbers, special characters
 - **Similar Character Exclusion**: Optional removal of confusing characters (0, O, l, 1, I)
 - **Password History**: In-memory storage of last 10 generated passwords
